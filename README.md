@@ -28,7 +28,7 @@ The request will contain the following parameters.
 
 ## Credits
 
-- [Nnaemeka Nweke (Codegenty)][https://twitter.com/codegenty]
+- [Ademola Quozeem][https://twitter.com/poshman26]
 
 ## Test cards
 
