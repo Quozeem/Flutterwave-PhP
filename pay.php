@@ -48,7 +48,7 @@
 	CURLOPT_CUSTOMREQUEST => 'POST',
 	CURLOPT_POSTFIELDS => json_encode($request),
 	CURLOPT_HTTPHEADER => array(
-	   'Authorization:  Bearer FLWSECK_TEST-cffabbe18f88d41f71b43405e015b917-X', //Get your Secrete key from flutterwave dashboard.
+	   'Authorization:  Bearer {SECRET KEY}', //Get your Secrete key from flutterwave dashboard.
 	   'Content-Type: application/json'
   	  ),
 
